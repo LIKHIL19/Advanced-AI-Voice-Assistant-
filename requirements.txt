@@ -1,0 +1,11 @@
+# File: requirements.txt
+streamlit
+SpeechRecognition
+google-generativeai
+pyttsx3
+requests
+python-dotenv
+googletrans==4.0.0-rc1
+newsapi-python
+wikipedia
+pyjokes
